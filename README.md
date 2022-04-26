@@ -2,4 +2,4 @@
 ### 策略持仓软件
 ### 效果图
 
-![image](https://github.com/shiyu23/Positions-Monitor/blob/main/pictures/Positions-Monitor.gif)
+![image](https://github.com/shiyu23/positions_monitor/blob/main/pictures/Positions-Monitor.gif)

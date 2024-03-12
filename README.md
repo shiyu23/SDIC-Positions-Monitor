@@ -1,4 +1,3 @@
-### Positions-Monitor
 ### 策略持仓软件
 ### 效果图
 
